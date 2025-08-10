@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi there 👋, I'm Your Name</h1>
+<h1 align="center">Hi there 👋, I'm Kurumi</h1>
 <h3 align="center">🚀 Passionate Developer | Open Source Enthusiast | Tech Explorer</h3>
 
 ---
@@ -9,7 +9,7 @@
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/🌐 Website-Up-green?style=for-the-badge"></a>
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
   <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram"></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="somethingjust30@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
