@@ -1,32 +1,88 @@
-# ✨ Fushinana Shrine - The Ultimate Web Game Experience ✨  
+<!-- Header -->
+<h1 align="center">Hi there 👋, I'm Your Name</h1>
+<h3 align="center">🚀 Passionate Developer | Open Source Enthusiast | Tech Explorer</h3>
 
-![Tokisaki Kurumi](https://raw.githubusercontent.com/itsukashiorii/1sl4_o02.v02/main/tokisaki%20kurumi.jpg)  
+---
 
-⚡ **Selamat datang di dunia penuh keajaiban!** ⚡  
-Fushinana Shrine adalah portal game berbasis web dengan tampilan **ala anime** yang keren, penuh animasi, dan efek magis yang memukau!  
+<!-- Badges -->
+<p align="center">
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/🌐 Website-Up-green?style=for-the-badge"></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
+  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram"></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
-## 🌟 Fitur Epik  
-🔥 **Desain Maou Gakuin no Futekigousha** – Nuansa kerajaan iblis dengan efek **glitch, aura sihir, dan transisi dramatis**.  
-🐍 **Game Ular Next-Level** – Pilih karakter ular, ubah kecepatan, hadapi rintangan, dan aktifkan **mode cheat!**  
-🎮 **Koleksi Game Web (20+ Game)** – Mulai dari **Flappy Bird, Tic-Tac-Toe, hingga Escape Room**!  
-🖼️ **Penampil Gambar 0-30** – Rasakan galeri yang smooth dan interaktif.  
-🎥 **Pemutar Video dengan Glow Real-Time** – Efek glow yang **menyesuaikan warna video secara akurat**.  
-⚡ **Efek Kursor Petir** – Rasakan energi sihir di setiap gerakan mouse!  
-📜 **Model 3D (GLB) dengan Kredit** – Jelajahi dunia 3D yang imersif dengan model berkualitas tinggi.  
+---
 
-## 🛠️ Teknologi yang Digunakan  
-- **HTML, CSS, JavaScript** (All in One File ⚡)  
-- **Three.js** untuk model 3D  
-- **Plyr.js** untuk pemutar video epik  
-- **Efek animasi & glitch** yang meningkatkan estetika anime  
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anubiskun/anubiskun/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 
-## 🎭 Cara Menikmati Fushinana Shrine  
-1. **Buka website-nya** dan rasakan **aura iblis yang elegan**!  
-2. **Pilih game favoritmu** dan tantang dirimu!  
-3. **Jelajahi model 3D & galeri** untuk pengalaman visual yang luar biasa!  
-4. **Nikmati efek keren dan atmosfer anime** seperti dalam dunia fantasi!  
+---
 
-## 🔥 Bergabung dalam Dunia Fushinana Shrine!  
-Jangan sampai ketinggalan! **Website ini terus berkembang** dengan fitur-fitur baru yang lebih **magis, cepat, dan imersif**!  
+## 📈 GitHub Stats
 
-⚔️ **Rasakan kekuatan Fushinana Shrine sekarang!** ⚔️
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=2&column=4" alt="trophies"/>
+</p>
+
+---
+
+## ⏳ Wakatime Stats (Coding Activity)
+<!-- Aktifkan di https://wakatime.com -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourwakatimeid&theme=radical&layout=compact"/>
+</p>
+
+---
+
+## 💡 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+</p>
+
+---
+
+## 🚀 My Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,php,laravel,java,mysql,mongodb,git,linux&perline=8"/>
+</p>
+
+---
+
+## 📊 GitHub Profile Summary Cards
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=radical"/>
+</p>
+
+---
+
+## 📍 Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge&label=VISITORS"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
+---
+
+**Copyright © TokisakiKurumi**
